@@ -3,6 +3,13 @@ export default function Square() {
     <div>
       <button className="square">X</button>
       <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
+      <button className="square">X</button>
     </div>
   );
 }
